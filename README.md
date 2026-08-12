@@ -5,7 +5,7 @@ This project is an example warehouse API that can be used for demos and proof of
 1. Clone the *warehouse-api-monolith* repo:
    
    ```
-   git clone https://github.com/mkryshak/warehouse-api-monolith.git
+   git clone https://github.com/musawir456/warehouse-api-monolith.git
    cd warehouse-api-monolith
    ```
    <br>
